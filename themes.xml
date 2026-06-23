@@ -1,0 +1,4 @@
+<resources>
+    <style name="Theme.Kolokvijum2" parent="Theme.AppCompat.DayNight.DarkActionBar">
+    </style>
+</resources>
